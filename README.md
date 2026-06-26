@@ -102,6 +102,7 @@ Awesome-GPTs
 ### [Academic Translator (to English)](https://chat.openai.com/g/g-WZjelkFDn-academic-translator-to-english)
  - Academic Translator (to English). I specialize in translations. If a request fails, try 'Translate: [input texts]'. By MATSUI KENTARO. Sign up to chat.
  - [Chat 💬](https://chat.openai.com/g/g-WZjelkFDn-academic-translator-to-english)
+ - [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 ### [English Learning](https://chat.openai.com/g/g-rehimLUp7-english-learning)
  - Your English learning assistant.
  - [Chat 💬](https://chat.openai.com/g/g-rehimLUp7-english-learning)
